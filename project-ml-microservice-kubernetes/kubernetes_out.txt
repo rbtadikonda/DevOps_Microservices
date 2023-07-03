@@ -1,0 +1,4 @@
+NAME                        READY   STATUS    RESTARTS   AGE
+rbtmlops-79d7bfb796-6hktr   1/1     Running   0          66s
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
